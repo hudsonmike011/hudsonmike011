@@ -111,13 +111,13 @@
 
   <section>
     <h2>Ready to Grow with Digital Finance?</h2>
-    <a class="btn" href="https://t.me/YOUR_CHANNEL_LINK" target="_blank">Join Now</a>
+    <a class="btn" href="https://t.me/+6X73LD5QIHw2MTQ0target="_blank">Join Now</a>
   </section>
 
   <footer>
     <p>Digital Finance Forum © 2025</p>
     <p>Contact: support@digitalfinanceforum.com</p>
-    <p>Disclaimer: All investments carry risk. This is not financial advice.</p>
+  
   </footer>
 
 </body>
