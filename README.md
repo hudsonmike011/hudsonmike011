@@ -83,7 +83,7 @@
   <header>
     <h1>Digital Finance Forum</h1>
     <p>Smart insights. Real opportunities.</p>
-    <a class="btn" href="https://t.me/YOUR_CHANNEL_LINK" target="_blank">Join Our Telegram Channel</a>
+    <a class="btn" href="https://t.me/+6X73LD5QIHw2MTQ0" target="_blank">Join Our Telegram Channel</a>
   </header>
 
   <section>
