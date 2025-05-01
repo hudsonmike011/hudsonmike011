@@ -105,8 +105,8 @@
 
   <section class="testimonials">
     <h2>What Our Members Say</h2>
-    <p>“I've learned more here in a week than months elsewhere.”<br>— Sam K., Investor</p>
-    <p>“Clear, no-hype guidance that actually works.”<br>— Michelle T., Crypto Enthusiast</p>
+    <p>“Digital Finance Forum delivered! Their investment strategies paid off big time. Highly recommend."<br>— Sam K., Investor</p>
+    <p>“Thanks to Digital Finance Forum, my portfolio is thriving! Great returns and expert advice. I'm a happy investor.”<br>— Michelle T., Crypto Enthusiast</p>
   </section>
 
   <section>
@@ -116,7 +116,7 @@
 
   <footer>
     <p>Digital Finance Forum © 2025</p>
-    <p>Contact: support@digitalfinanceforum.com</p>
+    
   
   </footer>
 
